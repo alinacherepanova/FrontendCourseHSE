@@ -1,0 +1,4 @@
+.ArticleItemContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
